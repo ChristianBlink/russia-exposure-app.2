@@ -1,0 +1,8 @@
+streamlit==1.36.0
+pandas==2.2.2
+requests==2.32.3
+rapidfuzz==3.9.6
+beautifulsoup4==4.12.3
+lxml==5.2.2
+reportlab==4.2.2
+pdfminer.six==20240706
